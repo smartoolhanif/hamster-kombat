@@ -1,13 +1,11 @@
 # Hamster Kombat Auto Farming Bot 
 This is a bot that can help you to run hamsterkombat telegram bot which has quite complete features with auto upgrade (3 methods), auto complete combo, auto complete daily cipher, auto complete Mini Game & auto complete tasks.
 
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
+[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER]()
 
 ### This bot helpfull?  Please support me by buying me a coffee: 
 ```
-0x705C71fc031B378586695c8f888231e9d24381b4 - EVM
-TDTtTc4hSnK9ii1VDudZij8FVK2ZtwChja - TRON
-UQBy7ICXV6qFGeFTRWSpnMtoH6agYF3PRa5nufcTr3GVOPri - TON
+bkash personal 01720879144
 ```
 NOTE : LAST UPDATE FROM ME, SEE YOU NEXT TIME!
 ===========================================================
@@ -35,9 +33,7 @@ CUBE-0SC-SKMQ-0REK-1A4
 CLONE-2RN-ZJJG-00FA-C5Q
 TRAIN-1RG-3KSZ-0YCM-GEW
   ```
-CHECK MY NEW REPOSITORY FOR PROMO CODE GENERATOR !!
-https://github.com/jawikas/hamster-generator-code
-===========================================================
+
 
 ### Add configuration setting on `config.json` 
 
@@ -94,11 +90,11 @@ Before installing and running this project, make sure you have the following pre
 ## Installation
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/jawikas/hamsterkombat.git
+    git clone https://github.com/smartoolhanif/hamster-kombat.git
     ```
 2. Go to the project directory:
     ```bash
-    cd hamsterkombat
+    cd Smart-tool-hamsterkombat
     ```
 3. Install the necessary dependencies:
     ```bash
@@ -136,13 +132,13 @@ python main.py
 ```
 
 ## Screenshoot
-![image](https://github.com/jawikas/hamsterkombat/assets/63976518/de33ad9f-f5ea-451e-a9ac-bce8d525e28f)
+![image]()
 
 ## License
 This project is licensed under the `NONE` License.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact us at [ https://t.me/itsjaw_real ].
+If you have any questions or suggestions, please feel free to contact us at [ https://t.me/ckinghanif].
 
 ## Thanks to :
 
